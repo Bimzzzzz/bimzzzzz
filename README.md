@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things about technology 
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me berlianbima8@gmail.com
+- 📫 How to reach me bimzgantengzzz@gmail.com
 
 <!---
 bimzzzzz/bimzzzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
